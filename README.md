@@ -1,1 +1,5 @@
-# zipfile_decryption_itertools
+### Readme
+
+- pyhon 3.8.x
+- jupyter notebook
+- zipfile, itertools
